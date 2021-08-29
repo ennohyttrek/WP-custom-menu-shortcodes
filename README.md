@@ -8,7 +8,7 @@
  
  The plugin could have been written in a much more elegant way, but it wasn't and it does it's job. If you want to use it, feel free to do so, but remember that by license I am not liable for any discomfort you, or your site, may suffer from as a result.
  
- Please also note, that there is a WP Editor navigation block in development by the WordPress developer team. At the moment that block is still in beta and only available when installing teh Gutenberg plugin, but once it is out of beta and part of the WP realease, my little plugin here might be obsolete.
+ Please also note, that there is a WP Editor navigation block in development by the WordPress developer team. At the moment that block is still in beta and only available when installing the Gutenberg plugin, but once it is out of beta and part of the WP realease, my little plugin here might be obsolete.
  
  Enjoy!
  Enno Hyttrek, August 2021

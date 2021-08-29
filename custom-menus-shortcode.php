@@ -5,7 +5,7 @@
 * Author: Enno Hyttrek
 * Author URI: https://www.ennohyttrek.de
 * License: GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
-* Version: 1.0.0
+* Version: 1.0.1
 *
 * © 2021, Enno Hyttrek
 */
@@ -36,7 +36,7 @@ function custom_menu_01_shortcode() {
         'echo' => false ) );
 
 }
-add_shortcode('custom-menu', 'custom_menu_01_shortcode');
+add_shortcode('custom-menu-01', 'custom_menu_01_shortcode');
 
 //Shortcode Custom Menu 2 [custom-menu-02]
 function custom_menu_02_shortcode() {
@@ -49,7 +49,7 @@ function custom_menu_02_shortcode() {
         'echo' => false ) );
 
 }
-add_shortcode('custom-menu', 'custom_menu_03_shortcode');
+add_shortcode('custom-menu-02', 'custom_menu_03_shortcode');
 
 //Shortcode Custom Menu 3 [custom-menu-03]
 function custom_menu_03_shortcode() {
@@ -62,4 +62,4 @@ function custom_menu_03_shortcode() {
         'echo' => false ) );
 
 }
-add_shortcode('custom-menu', 'custom_menu_03_shortcode');
+add_shortcode('custom-menu-03', 'custom_menu_03_shortcode');

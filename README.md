@@ -1,4 +1,4 @@
-# wp-custom-menus-shortcodes
+# WP Custom Menus Shortcodes
 
  This is an extremely simple WordPress plugin which I wrote in a quick&dirty way to solve a problem I had when working on a WordPress site: I needed one (or more) extra menus, which I could insert as an editor block. Coding an actual (Gutenberg) block is way beyond my coding skills, so I wrote this simpe plugin, which provides three custom menus/menu positions, to be isnerted by shortcode.
  

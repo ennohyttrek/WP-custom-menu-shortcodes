@@ -4,7 +4,10 @@
 * Plugin Name: Custom Menus Shortcodes
 * Author: Enno Hyttrek
 * Author URI: https://www.ennohyttrek.de
+* License: GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
 * Version: 1.0.0
+*
+* © 2021, Enno Hyttrek
 */
 
 
@@ -13,9 +16,9 @@
 function register_custom_menus() {
   register_nav_menus(
     array(
-        'custom-menu-01' => __( 'Custom Menu, shortcode [custom-menu-01]' ),
-        'custom-menu-02' => __( 'Custom Menu, shortcode [custom-menu-02]' ),
-        'custom-menu-03' => __( 'Custom Menu, shortcode [custom-menu-03]' )
+        'custom-menu-01' => __( 'Custom Menu 1, shortcode [custom-menu-01]' ),
+        'custom-menu-02' => __( 'Custom Menu 2, shortcode [custom-menu-02]' ),
+        'custom-menu-03' => __( 'Custom Menu 3, shortcode [custom-menu-03]' )
      )
    );
  }
